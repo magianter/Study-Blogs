@@ -1,5 +1,5 @@
 # Study-Blogs
-学习心得和总结
+学习心得和总结:[Wiki](https://github.com/magianter/Study-Blogs/wiki)
 ## iOS
 
 ### objectiveC
